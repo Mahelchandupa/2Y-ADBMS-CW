@@ -10,13 +10,13 @@ Welcome to the TechMart NoSQL Database Solution repository! This application, de
 
 ### Product Catalog
 <ul>
-  <li><b> Fast Retrieval:</b>> Stores product information such as name, description, price, and category, allowing for quick retrieval and handling a large number of products.</li>
+  <li><b> Fast Retrieval:</b> Stores product information such as name, description, price, and category, allowing for quick retrieval and handling a large number of products.</li>
 </ul>
 
 ### Order Management
 <ul>
-  <li><b>Order Tracking: </b> Tracks customer orders, including order ID, customer ID, order date, and order details (product IDs, quantities, and prices).</li>
-  <li><b>Efficient Querying:  </b> Provides efficient querying and indexing capabilities to support order processing and analysis.</li>
+  <li><b>Order Tracking:</b> Tracks customer orders, including order ID, customer ID, order date, and order details (product IDs, quantities, and prices.</li>
+  <li><b>Efficient Querying:</b> Provides efficient querying and indexing capabilities to support order processing and analysis.</li>
 </ul>
 
 ### Scalability
