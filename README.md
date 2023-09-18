@@ -5,7 +5,7 @@ Welcome to the TechMart NoSQL Database Solution repository! This application, de
 
 ### Customer Data
 <ul>
-  <li><b>Efficient Storage:</b>> Stores customer information, including name, email address, shipping address, and order history, handling millions of customer records efficiently.</li>
+  <li><b>Efficient Storage:</b> Stores customer information, including name, email address, shipping address, and order history, handling millions of customer records efficiently.</li>
 </ul>
 
 ### Product Catalog
